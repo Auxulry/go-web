@@ -1,4 +1,4 @@
-package server_test
+package go_web
 
 import (
 	"net/http"
